@@ -16,6 +16,9 @@ Source:  https://www.kaggle.com/fedesoriano/california-housing-prices-data-extra
 - Total_Rooms
 - Total_Bedrooms
 - Population
+- Households
+- Latitude
+- Longitude
 - Distance to LA
 - Distance to SanDiego
 - Distance to SanJose

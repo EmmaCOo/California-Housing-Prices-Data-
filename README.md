@@ -20,8 +20,6 @@ Source:  https://www.kaggle.com/fedesoriano/california-housing-prices-data-extra
 - Distance to SanDiego
 - Distance to SanJose
 - Distance to San Francisco
-- Distance to SanJose 
-- Distance to SanFrancisco
 
 ## TARGET
 - Median House Value

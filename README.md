@@ -1,2 +1,28 @@
-# California-Housing-Prices-Data-
-To Predict California's House Value
+# California-Housing-Prices
+
+## TEAM MEMBERS:
+Sarah Alqaysi, Tristan Demond, Emma Oo
+
+## OBJECTIVE 
+To Predict California's Housing Prices
+
+## DATA
+Source:  https://www.kaggle.com/fedesoriano/california-housing-prices-data-extra-features
+
+
+## PREDICTORS:
+- Median_Income
+- Median_Age
+- Total_Rooms
+- Total_Bedrooms
+- Population
+- Distance to LA
+- Distance to SanDiego
+- Distance to SanJose
+- Distance to San Francisco
+- Distance to SanJose 
+- Distance to SanFrancisco
+
+## TARGET
+- Median House Value
+

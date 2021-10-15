@@ -1,4 +1,4 @@
-# California-Housing-Prices
+# Prediction of California Median House Prices
 
 ## TEAM MEMBERS:
 Sarah Alqaysi, Tristan Demond, Emma Oo
